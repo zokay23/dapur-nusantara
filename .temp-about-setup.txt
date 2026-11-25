@@ -1,0 +1,1 @@
+Berkas sementara untuk menampilkan panel About; akan dihapus setelah pengaturan selesai.
